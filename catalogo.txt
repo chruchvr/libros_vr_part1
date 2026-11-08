@@ -13,9 +13,8 @@ Self-Growth|Soul Detox|Craig Groeschel|764|96|
 Self-Growth|The Power to Change|Craig Groeschel|860|113|
 Theology|Theological turning points  major issues in Christian thought (|McKim, Donald K|973|116|
 Family|What Did You Expect Redeeming the Realities of Marriage|Unkown|1089|146|
-Self-Growth|Penetrando la oscuridad - Frank E. Peretti||1235|15|
-Self-Growth|Esta patente oscuridad - Frank E. Peretti||1250|244|
+Self-Growth|Esta patente oscuridad - Frank E. Peretti||1235|244|
 Leadership|Perfil de tres monarcas - Gene Edwards||869|23|
 Self-Growth|Guerra espiritual personal||892|15|
-Prayer|Oraciones peligrosas - Craig||1250|88|
-Bible Study|The Prayer Bible - A Modern Translation (Elmer Towns, Roy B. Zuck (trans.))||1338|1012|
+Prayer|Oraciones peligrosas - Craig||1235|88|
+Bible Study|The Prayer Bible - A Modern Translation (Elmer Towns, Roy B. Zuck (trans.))||1323|1012|
