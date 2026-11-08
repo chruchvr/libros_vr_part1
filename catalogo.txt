@@ -11,12 +11,11 @@ Self-Growth|Putting Your Past Behind You|(Erwin W. Lutzer)|594|80|
 Bible Study|Seamless Student Edition|Angie Smith|674|90|
 Self-Growth|Soul Detox|Craig Groeschel|764|96|
 Self-Growth|The Power to Change|Craig Groeschel|860|113|
-Theology|Theological turning points  major issues in Christian thought (|McKim, Donald K|973|116|
-Family|What Did You Expect Redeeming the Realities of Marriage|Unkown|1089|146|
-Self-Growth|Esta patente oscuridad - Frank E. Peretti||1235|244|
-Leadership|Perfil de tres monarcas - Gene Edwards||869|23|
-Self-Growth|Guerra espiritual personal||892|15|
-Prayer|Oraciones peligrosas - Craig||1235|88|
-Bible Study|The Prayer Bible - A Modern Translation (Elmer Towns, Roy B. Zuck (trans.))||1323|1012|
+Theology|Theological turning points  major issues in Christian thought (|McKim, Donald K|950|116|
+Family|What Did You Expect Redeeming the Realities of Marriage|Unkown|1066|146|
+Self-Growth|Esta patente oscuridad - Frank E. Peretti||1212|244|
+Self-Growth|Guerra espiritual personal||869|15|
+Prayer|Oraciones peligrosas - Craig||1212|88|
+Bible Study|The Prayer Bible - A Modern Translation (Elmer Towns, Roy B. Zuck (trans.))||1300|1012|
 Bible Study|Biblia de refencia Thompson con versículos en cadena temática (Editorial Vida)||3000|625|
-Catholic|The Divine Comedy (Dante Alighieri)||2335|361|
+Catholic|The Divine Comedy (Dante Alighieri)||2312|361|
