@@ -1,0 +1,3 @@
+# Catalogue for BibliotecaLector. One book per line:
+# Category|Title|Credit|first image (global pool index)|sheet count|first sheet of each section, comma separated
+# Pool: libros_vr_partN/paginas/pXXXXX.jpg holds global index (N-1)*3000 + XXXXX
