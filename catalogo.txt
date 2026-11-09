@@ -6,18 +6,17 @@ Bible Study|Find it quick handy Bible encyclopedia|Ron Rhodes|69|194|
 Family|From This Day Forward|(Craig Groeschel  Amy Groeschel)|263|57|
 Family|God, marriage, and family  rebuilding the biblical foundation|(Köstenberger, Andreas J., 1957-, Jones etc.)|320|202|
 Self-Growth|Killing Sin (Karl Clauson)|(Karl Clauson)|522|61|
-Devotionals|new mercy morning devotionals -Look Inside|Paul David Tripp|583|11|
-Self-Growth|Putting Your Past Behind You|(Erwin W. Lutzer)|594|80|
-Bible Study|Seamless Student Edition|Angie Smith|674|90|
-Self-Growth|Soul Detox|Craig Groeschel|764|96|
-Self-Growth|The Power to Change|Craig Groeschel|860|113|
-Theology|Theological turning points  major issues in Christian thought (|McKim, Donald K|950|116|
-Family|What Did You Expect Redeeming the Realities of Marriage|Unkown|1066|146|
-Self-Growth|Esta patente oscuridad - Frank E. Peretti||1212|244|
-Self-Growth|Guerra espiritual personal||869|15|
-Bible Study|The Prayer Bible - A Modern Translation (Elmer Towns, Roy B. Zuck (trans.))||1212|1012|
+Self-Growth|Putting Your Past Behind You|(Erwin W. Lutzer)|583|80|
+Bible Study|Seamless Student Edition|Angie Smith|663|90|
+Self-Growth|Soul Detox|Craig Groeschel|753|96|
+Self-Growth|The Power to Change|Craig Groeschel|849|113|
+Theology|Theological turning points  major issues in Christian thought (|McKim, Donald K|939|116|
+Family|What Did You Expect Redeeming the Realities of Marriage|Unkown|1055|146|
+Self-Growth|Esta patente oscuridad - Frank E. Peretti||1201|244|
+Self-Growth|Guerra espiritual personal||858|15|
+Bible Study|The Prayer Bible - A Modern Translation (Elmer Towns, Roy B. Zuck (trans.))||1201|1012|
 Bible Study|Biblia de refencia Thompson con versículos en cadena temática (Editorial Vida)||3000|625|
-Catholic|The Divine Comedy (Dante Alighieri)||2224|361|
+Catholic|The Divine Comedy (Dante Alighieri)||2213|361|
 Catholic|Introduction To Christianity, 2nd Edition (Joseph Cardinal Ratzinger etc.)|Joseph Cardinal Ratzinger|3625|136|
 Catholic|Saint Augustine Confessions|Saint Augustine|3761|178|
 Catholic|Interior Castle (Start Publishing)|St. Teresa of Avila|3939|95|
@@ -27,3 +26,4 @@ Catholic|Three Apologies of G. K. Chesterton Heretics, Orthodoxy and the Everlas
 Catholic|The Lord|Romano Guardini, Joseph Cardinal Ratzinger|4650|325|
 Catholic|Guide to Thomas Aquinas|Pieper, Josef, 1904-1997|6000|98|
 Catholic|The Spirit and Forms of Protestantism|Louis Bouyer|6098|129|
+Prayer|Oraciones peligrosas - Craig|Craig|6227|88|
