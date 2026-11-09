@@ -15,10 +15,9 @@ Theology|Theological turning points  major issues in Christian thought (|McKim, 
 Family|What Did You Expect Redeeming the Realities of Marriage|Unkown|1066|146|
 Self-Growth|Esta patente oscuridad - Frank E. Peretti||1212|244|
 Self-Growth|Guerra espiritual personal||869|15|
-Prayer|Oraciones peligrosas - Craig||1212|88|
-Bible Study|The Prayer Bible - A Modern Translation (Elmer Towns, Roy B. Zuck (trans.))||1300|1012|
+Bible Study|The Prayer Bible - A Modern Translation (Elmer Towns, Roy B. Zuck (trans.))||1212|1012|
 Bible Study|Biblia de refencia Thompson con versículos en cadena temática (Editorial Vida)||3000|625|
-Catholic|The Divine Comedy (Dante Alighieri)||2312|361|
+Catholic|The Divine Comedy (Dante Alighieri)||2224|361|
 Catholic|Introduction To Christianity, 2nd Edition (Joseph Cardinal Ratzinger etc.)|Joseph Cardinal Ratzinger|3625|136|
 Catholic|Saint Augustine Confessions|Saint Augustine|3761|178|
 Catholic|Interior Castle (Start Publishing)|St. Teresa of Avila|3939|95|
