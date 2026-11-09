@@ -19,3 +19,12 @@ Prayer|Oraciones peligrosas - Craig||1212|88|
 Bible Study|The Prayer Bible - A Modern Translation (Elmer Towns, Roy B. Zuck (trans.))||1300|1012|
 Bible Study|Biblia de refencia Thompson con versículos en cadena temática (Editorial Vida)||3000|625|
 Catholic|The Divine Comedy (Dante Alighieri)||2312|361|
+Catholic|Introduction To Christianity, 2nd Edition (Joseph Cardinal Ratzinger etc.)|Joseph Cardinal Ratzinger|3625|136|
+Catholic|Saint Augustine Confessions|Saint Augustine|3761|178|
+Catholic|Interior Castle (Start Publishing)|St. Teresa of Avila|3939|95|
+Catholic|Story of a Soul (LHistoire dune Ame) The Autobiography of St. Therese of Lisieux|(St. Therese of Lisieux)|4034|132|
+Catholic|An Essay on the Development of Christian Doctrine (Newman,|John Henry|4166|222|
+Catholic|Three Apologies of G. K. Chesterton Heretics, Orthodoxy and the Everlasting Man|(Gilbert Keith Chesterton)|4388|262|
+Catholic|The Lord|Romano Guardini, Joseph Cardinal Ratzinger|4650|325|
+Catholic|Guide to Thomas Aquinas|Pieper, Josef, 1904-1997|6000|98|
+Catholic|The Spirit and Forms of Protestantism|Louis Bouyer|6098|129|
